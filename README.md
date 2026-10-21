@@ -3,12 +3,13 @@
 Android-App aus einem HTL-Schulprojekt: Sie empfängt die GPS-Position eines **XC Tracer Mini IV GPS** per Bluetooth,
 zeigt sie auf einer Karte mit Navigation und kann sie anderen Apps (z. B. Google Maps) als Standort bereitstellen.
 Neu in 1.1: farbiges Gelände und Lufträume (Sperr-, Gefahren-, Kontrollzonen) mit Warnung bei Annäherung.
+Neu in 1.2: Ziel als **Luftlinie** (gerade Linie mit Kurs) statt Autoroute und eine **Höhenkarte** (Höhe in Farben).
 Ohne XC Tracer funktioniert die Karte mit dem GPS des Handys.
 
 ## Download
 
 **[⬇ BLE-GPS-XC-Tracer.apk herunterladen](https://github.com/NickPD09/ble-gps-xc-tracer/releases/latest/download/BLE-GPS-XC-Tracer.apk)**
-(Version 1.1, ca. 27 MB, Android 12 oder neuer)
+(Version 1.2, ca. 27 MB, Android 12 oder neuer)
 
 ## Installation
 
